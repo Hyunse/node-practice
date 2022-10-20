@@ -3,7 +3,9 @@
 // node myFile.js
 
 const pendingTimers = [];
+// async.js
 const pendingOSTasks = [];
+// threads.js
 const pendingOperations = [];
 
 // New timers, tasks, oeprations are recorded from myFile running
