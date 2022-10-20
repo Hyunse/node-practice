@@ -31,6 +31,7 @@ doHash();
 doHash();
 doHash();
 
+// Rq
+// Hash
 // fs
-// Hash * 4 
-// Request
+// Hash *  3
